@@ -1,0 +1,3 @@
+/home/penultimo/Projects/Facultate/FC/fractali-opencl/CMakeFiles/edit_cache.dir
+/home/penultimo/Projects/Facultate/FC/fractali-opencl/CMakeFiles/rebuild_cache.dir
+/home/penultimo/Projects/Facultate/FC/fractali-opencl/CMakeFiles/PFract.dir

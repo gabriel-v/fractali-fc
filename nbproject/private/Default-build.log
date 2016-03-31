@@ -1,0 +1,30 @@
+Scanning dependencies of target PFract
+[ 14%] Building CXX object CMakeFiles/PFract.dir/View.cpp.o
+[ 28%] Building CXX object CMakeFiles/PFract.dir/Compositor.cpp.o
+[ 42%] Building CXX object CMakeFiles/PFract.dir/CLCompositor.cpp.o
+/home/penultimo/Projects/Facultate/FC/fractali-opencl/CLCompositor.cpp:19:12: warning: unused variable 'options' [-Wunused-const-variable]
+const char options[] = "-cl-std=CL1.1";
+           ^
+1 warning generated.
+[ 57%] Building CXX object CMakeFiles/PFract.dir/Window.cpp.o
+[ 71%] Building CXX object CMakeFiles/PFract.dir/CPPCompositor.cpp.o
+[ 85%] Building CXX object CMakeFiles/PFract.dir/main.cpp.o
+In file included from /home/penultimo/Projects/Facultate/FC/fractali-opencl/main.cpp:14:
+In file included from /usr/include/CImg.h:388:
+In file included from /usr/include/ImageMagick-6/Magick++.h:10:
+In file included from /usr/include/ImageMagick-6/Magick++/Include.h:14:
+/usr/include/ImageMagick-6/magick/magick-config.h:29:3: warning: "you should set MAGICKCORE_QUANTUM_DEPTH to sensible default set it to configure time default" [-W#warnings]
+# warning "you should set MAGICKCORE_QUANTUM_DEPTH to sensible default set it to configure time default"
+  ^
+/usr/include/ImageMagick-6/magick/magick-config.h:30:3: warning: "this is an obsolete behavior please fix your makefile" [-W#warnings]
+# warning "this is an obsolete behavior please fix your makefile"
+  ^
+/usr/include/ImageMagick-6/magick/magick-config.h:52:3: warning: "you should set MAGICKCORE_HDRI_ENABLE to sensible default set it to configure time default" [-W#warnings]
+# warning "you should set MAGICKCORE_HDRI_ENABLE to sensible default set it to configure time default"
+  ^
+/usr/include/ImageMagick-6/magick/magick-config.h:53:3: warning: "this is an obsolete behavior please fix yours makefile" [-W#warnings]
+# warning "this is an obsolete behavior please fix yours makefile"
+  ^
+4 warnings generated.
+[100%] Linking CXX executable PFract
+[100%] Built target PFract

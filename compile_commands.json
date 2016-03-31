@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/penultimo/Projects/Facultate/FC/fractali-opencl",
+  "command": "/usr/bin/clang++    -I/usr/include/OpenEXR -I/usr/include/libdrm -I/usr/include/ImageMagick-6   -std=c++11 -Wall  -Dcimg_use_tiff -Dcimg_use_jpeg -Dcimg_use_zlib -Dcimg_use_png -Dcimg_use_fftw3 -Dcimg_use_openexr -Dcimg_use_magick -Dcimg_use_xshm -Dcimg_use_xrandr    -Dcimg_use_tiff -Dcimg_use_jpeg -Dcimg_use_zlib -Dcimg_use_png -Dcimg_use_fftw3 -Dcimg_use_openexr -Dcimg_use_magick -Dcimg_use_xshm -Dcimg_use_xrandr   -g3 -gdwarf-2   -o CMakeFiles/PFract.dir/View.cpp.o -c /home/penultimo/Projects/Facultate/FC/fractali-opencl/View.cpp",
+  "file": "/home/penultimo/Projects/Facultate/FC/fractali-opencl/View.cpp"
+},
+{
+  "directory": "/home/penultimo/Projects/Facultate/FC/fractali-opencl",
+  "command": "/usr/bin/clang++    -I/usr/include/OpenEXR -I/usr/include/libdrm -I/usr/include/ImageMagick-6   -std=c++11 -Wall  -Dcimg_use_tiff -Dcimg_use_jpeg -Dcimg_use_zlib -Dcimg_use_png -Dcimg_use_fftw3 -Dcimg_use_openexr -Dcimg_use_magick -Dcimg_use_xshm -Dcimg_use_xrandr    -Dcimg_use_tiff -Dcimg_use_jpeg -Dcimg_use_zlib -Dcimg_use_png -Dcimg_use_fftw3 -Dcimg_use_openexr -Dcimg_use_magick -Dcimg_use_xshm -Dcimg_use_xrandr   -g3 -gdwarf-2   -o CMakeFiles/PFract.dir/Compositor.cpp.o -c /home/penultimo/Projects/Facultate/FC/fractali-opencl/Compositor.cpp",
+  "file": "/home/penultimo/Projects/Facultate/FC/fractali-opencl/Compositor.cpp"
+},
+{
+  "directory": "/home/penultimo/Projects/Facultate/FC/fractali-opencl",
+  "command": "/usr/bin/clang++    -I/usr/include/OpenEXR -I/usr/include/libdrm -I/usr/include/ImageMagick-6   -std=c++11 -Wall  -Dcimg_use_tiff -Dcimg_use_jpeg -Dcimg_use_zlib -Dcimg_use_png -Dcimg_use_fftw3 -Dcimg_use_openexr -Dcimg_use_magick -Dcimg_use_xshm -Dcimg_use_xrandr    -Dcimg_use_tiff -Dcimg_use_jpeg -Dcimg_use_zlib -Dcimg_use_png -Dcimg_use_fftw3 -Dcimg_use_openexr -Dcimg_use_magick -Dcimg_use_xshm -Dcimg_use_xrandr   -g3 -gdwarf-2   -o CMakeFiles/PFract.dir/CLCompositor.cpp.o -c /home/penultimo/Projects/Facultate/FC/fractali-opencl/CLCompositor.cpp",
+  "file": "/home/penultimo/Projects/Facultate/FC/fractali-opencl/CLCompositor.cpp"
+},
+{
+  "directory": "/home/penultimo/Projects/Facultate/FC/fractali-opencl",
+  "command": "/usr/bin/clang++    -I/usr/include/OpenEXR -I/usr/include/libdrm -I/usr/include/ImageMagick-6   -std=c++11 -Wall  -Dcimg_use_tiff -Dcimg_use_jpeg -Dcimg_use_zlib -Dcimg_use_png -Dcimg_use_fftw3 -Dcimg_use_openexr -Dcimg_use_magick -Dcimg_use_xshm -Dcimg_use_xrandr    -Dcimg_use_tiff -Dcimg_use_jpeg -Dcimg_use_zlib -Dcimg_use_png -Dcimg_use_fftw3 -Dcimg_use_openexr -Dcimg_use_magick -Dcimg_use_xshm -Dcimg_use_xrandr   -g3 -gdwarf-2   -o CMakeFiles/PFract.dir/Window.cpp.o -c /home/penultimo/Projects/Facultate/FC/fractali-opencl/Window.cpp",
+  "file": "/home/penultimo/Projects/Facultate/FC/fractali-opencl/Window.cpp"
+},
+{
+  "directory": "/home/penultimo/Projects/Facultate/FC/fractali-opencl",
+  "command": "/usr/bin/clang++    -I/usr/include/OpenEXR -I/usr/include/libdrm -I/usr/include/ImageMagick-6   -std=c++11 -Wall  -Dcimg_use_tiff -Dcimg_use_jpeg -Dcimg_use_zlib -Dcimg_use_png -Dcimg_use_fftw3 -Dcimg_use_openexr -Dcimg_use_magick -Dcimg_use_xshm -Dcimg_use_xrandr    -Dcimg_use_tiff -Dcimg_use_jpeg -Dcimg_use_zlib -Dcimg_use_png -Dcimg_use_fftw3 -Dcimg_use_openexr -Dcimg_use_magick -Dcimg_use_xshm -Dcimg_use_xrandr   -g3 -gdwarf-2   -o CMakeFiles/PFract.dir/CPPCompositor.cpp.o -c /home/penultimo/Projects/Facultate/FC/fractali-opencl/CPPCompositor.cpp",
+  "file": "/home/penultimo/Projects/Facultate/FC/fractali-opencl/CPPCompositor.cpp"
+},
+{
+  "directory": "/home/penultimo/Projects/Facultate/FC/fractali-opencl",
+  "command": "/usr/bin/clang++    -I/usr/include/OpenEXR -I/usr/include/libdrm -I/usr/include/ImageMagick-6   -std=c++11 -Wall  -Dcimg_use_tiff -Dcimg_use_jpeg -Dcimg_use_zlib -Dcimg_use_png -Dcimg_use_fftw3 -Dcimg_use_openexr -Dcimg_use_magick -Dcimg_use_xshm -Dcimg_use_xrandr    -Dcimg_use_tiff -Dcimg_use_jpeg -Dcimg_use_zlib -Dcimg_use_png -Dcimg_use_fftw3 -Dcimg_use_openexr -Dcimg_use_magick -Dcimg_use_xshm -Dcimg_use_xrandr   -g3 -gdwarf-2   -o CMakeFiles/PFract.dir/main.cpp.o -c /home/penultimo/Projects/Facultate/FC/fractali-opencl/main.cpp",
+  "file": "/home/penultimo/Projects/Facultate/FC/fractali-opencl/main.cpp"
+}
+]
