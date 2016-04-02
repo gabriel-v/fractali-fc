@@ -29,7 +29,7 @@ void global_window_size_callback(GLFWwindow *window, int w, int h) {
 
 Window::Window() : View() {
 	/* Create a windowed mode window and its OpenGL context */
-	_window = glfwCreateWindow(1080, 720, "PFract", NULL, NULL);
+	_window = glfwCreateWindow(150, 150, "PFract", NULL, NULL);
 	if (!_window) {
 		glfwTerminate();
 		throw error("Glfw window creation failed");

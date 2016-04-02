@@ -10,16 +10,17 @@
 //#define __NO_STD_VECTOR // Use cl::vector instead of STL version
 //#define __CL_ENABLE_EXCEPTIONS
 
-#include <CL/cl.hpp>
-#include <CImg.h>
+//#include <CL/cl.hpp>
+//#include <CImg.h>
 
 #include "Window.h"
-#include "CLCompositor.h"
 #include <iostream>
 #include <cmath>
+#include "CPPCompositor.h"
+#include "CPPDoublePendulum.h"
 //namespace cimg = cimg_library;
 
-
+/*
 #include "OpenCLUtilities/openCLUtilities.hpp"
 
 using namespace cl;
@@ -96,6 +97,7 @@ int main(int argc, char ** argv) {
     image->save("images/result.jpg");
     image->display();
 }
+ */
 //int main() {
 //
 //	cimg_library::CImg<unsigned char> image((const char* const) "images/lena.jpg");
@@ -115,3 +117,14 @@ int main(int argc, char ** argv) {
 //	}
 //	return 0;
 //}
+
+int main() {
+    cf::Window::initGL();
+    cf::Window win;
+
+    cf::CPPCompositor compositor;
+
+    win.start(compositor);
+
+    cf::Window::termGL();
+}

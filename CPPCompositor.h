@@ -12,11 +12,15 @@
 #include "Compositor.h"
 
 namespace cf {
+
+	uint bernstein(double t);
+
 	class CPPCompositor : public Compositor {
 	protected:
+
 		virtual uint pixel(scalar x, scalar y);
 
-		virtual void calculate(uint *image, scalar *ordX, scalar *ordY,
+		virtual void calculate(uint *imgo, scalar *ordX, scalar *ordY,
 		                       int width, int height);
 	};
 }
